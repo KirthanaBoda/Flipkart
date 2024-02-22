@@ -16,5 +16,6 @@ step4. Used cards to represent sum of profit, Sum of sales and sum of quantity.
 
 Step5. We can see that furniture has the lowest profit.
 
+![flipkart](https://github.com/KirthanaBoda/Flipkart/assets/160857494/f02dc03a-06a8-4ce7-bfcb-13ce292c166c)
 
 
